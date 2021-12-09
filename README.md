@@ -1,6 +1,6 @@
 # FileFilter User Guide | v1.0
 ## __Program Functions__
-This program acts to filter a column in a CSV file and return all data within the filtered rows as a seperate CSV file. 
+This program acts to filter a column in a CSV file titled 'input.csv' from an inputted set of filters from 'filter.txt' and return all data within the filtered rows as a seperate CSV file named whatever the user wants it to be. 
 
 ## __Program Usage__
 
